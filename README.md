@@ -141,15 +141,15 @@ Phase 1: Foundation          Phase 2: Market Entry       Phase 3: Expansion
 
 ---
 
-## 📚 專案資料
+## 專案資料
 
 | 資料 | 連結 |
 |------|------|
-| 完整簡報 | [Pitch Deck (PDF)](docs/TaiPAY_Pitch_Deck.pdf) |
+| 完整簡報 | [Pitch Deck (PDF)](TaiPAY_Pitch_Deck.pdf) |
 
 ---
 
-## 💡 學習與反思
+## 學習與反思
 
 ### 學到的能力
 
@@ -180,7 +180,7 @@ Phase 1: Foundation          Phase 2: Market Entry       Phase 3: Expansion
 
 ---
 
-## 👤 作者
+## 作者
 
 **劉豐睿 (Ryder Liu)**  
 國立政治大學 資訊管理學系
